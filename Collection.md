@@ -1,6 +1,6 @@
 # People
 
-
+[Michael Lutz](https://www.linkedin.com/in/michaellutz-edtech-advisor)
 
 ***
 
