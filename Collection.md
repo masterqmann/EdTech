@@ -1,6 +1,6 @@
 # People
 
-[Michael Lutz](https://www.linkedin.com/in/michaellutz-edtech-advisor)
+* [Michael Lutz](https://www.linkedin.com/in/michaellutz-edtech-advisor)
 
 ***
 
@@ -23,4 +23,4 @@
 # Tools
 
 ## Apps
-* Modus Operanti #teacherinpocket
+* [Modus Operanti #teacherinpocket](https://www.modusoperandiapp.com/)
