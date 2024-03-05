@@ -9,7 +9,7 @@
 # :headphones: Podcast
 
 ## Series
-*
+* [Kreide.KI.Klartext](https://kreide-ki-klartext.podigee.io/)
 * [eduMail Podcast](https://ebildungslabor.de/category/podcast/)
 
 ## Single Episodes
