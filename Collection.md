@@ -3,15 +3,20 @@
 * [Michael Lutz Lehrer/Lutz Education](https://www.linkedin.com/in/michaellutz-edtech-advisor)
 * [Nele Hirsch EBildungsLabor](https://www.linkedin.com/in/nele-hirsch-2a79a51a0)
 
-***
 
-# Podcast
 
+# :headphones: Podcast
+
+## Series
 *
 * [eduMail Podcast](https://ebildungslabor.de/category/podcast/)
 
+## Single Episodes
+*
+* 2024-01-14 [Tech Weekly: Künstliche Intelligenz im Klassenzimmer](https://www.bitkom.org/mediathek/podcasts/Tech-Weekly-Kuenstliche-Intelligenz-im-Klassenzimmer)
+*
 
-# articles
+# Reading
 
 * 2024-02-23 [Groq: KI-Open Source-Sprachmodelle in superschneller Umgebung](https://ebildungslabor.de/links/groq-ki-open-source-sprachmodelle-in-superschneller-umgebung/)
 * 2024-02-05 [Gut prompten statt perfekt schreiben? So verändert KI den Deutschunterricht](https://deutsches-schulportal.de/unterricht/gut-prompten-statt-perfekt-schreiben-so-veraendert-ki-den-deutschunterricht/)
