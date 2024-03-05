@@ -1,10 +1,12 @@
 # :information_desk_person: People
 
+* [Kai Wörner](https://twitter.com/Woe_Real)
 * [Michael Lutz Lehrer/Lutz Education](https://www.linkedin.com/in/michaellutz-edtech-advisor)
 * [Nele Hirsch EBildungsLabor](https://www.linkedin.com/in/nele-hirsch-2a79a51a0)
 * [Patrick Bronner - Tablet oder Kreidetafel](https://www.patrickbronner.de/)
 
-
+## SocialMedia
+* [SchulKI](https://twitter.com/schulKI_de)
 
 # :headphones: Podcast
 
@@ -24,8 +26,10 @@
 * 2024-02-23 [Groq: KI-Open Source-Sprachmodelle in superschneller Umgebung](https://ebildungslabor.de/links/groq-ki-open-source-sprachmodelle-in-superschneller-umgebung/)
 * 2024-02-05 [Fünf erprobte KI-Tools für deinen Lehreralltag](https://www.kms-bildung.de/2024/02/05/fuenf-erprobte-ki-tools-fuer-deinen-lehreralltag/)
 * 2024-02-05 [Gut prompten statt perfekt schreiben? So verändert KI den Deutschunterricht](https://deutsches-schulportal.de/unterricht/gut-prompten-statt-perfekt-schreiben-so-veraendert-ki-den-deutschunterricht/)
+* 2024-02-01 [KI in Heidelberger Schule: Hat ChatGPT den Schulalltag schon verändert?](https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/ki-kuenstliche-intelligenz-schule-heidelberg-gymnasium-lehrer-schueler-eltern-100.html)
 * 2023-11-05 [Academic Integrity in the Age of AI](https://er.educause.edu/articles/sponsored/2023/11/academic-integrity-in-the-age-of-ai)
 * 2023-11-02 [KI: Digitale Professoren, sprechende Lehrbücher - so revolutioniert KI die Bildung](https://www.handelsblatt.com/technik/ki/ki-digitale-professoren-sprechende-lehrbuecher-so-revolutioniert-ki-die-bildung/29453478.html)
+* 2023-01-13 [Wie Künstliche Intelligenz bereits jetzt den Unterricht verändert](https://www.schule-in-bayern.de/beitrag/wie-kuenstliche-intelligenz-bereits-jetzt-den-unterricht-veraendert)
 
 ## Newsletter
 
@@ -49,6 +53,7 @@ Künstlicher Intelligenz (KI)](https://medienportal.siemens-stiftung.org/de/unte
 ## :iphone: Apps
 
 ### General
+* [SchulKI](https://schulki.de/)
 
 ### German
 
