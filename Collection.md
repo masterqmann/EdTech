@@ -42,6 +42,7 @@
 ## :nut_and_bolt: Toolkits
 * [Unterrichtsmaterial zu
 Künstlicher Intelligenz (KI)](https://medienportal.siemens-stiftung.org/de/unterrichtsmaterial-kuenstliche-intelligenz)
+* [Künstliche Intelligenz im Unterricht Tools, Informationen und Beispiele | CC BY-SA 4.0 Arthur Thömmes ](https://www.taskcards.de/#/board/b876a104-8031-4254-aa24-37dc1cfd292c/view)
 
 ## :iphone: Apps
 
