@@ -30,10 +30,16 @@
 
 ## Documentation
 
-*
+* 2024-01 [Online Kurs: KI mit Schüler:innen](https://hazu.swiss/lutz-education/yNCZwSxdnK8H6QOqB4Nl/BsogBsujNRoSuDN9XryX)
 * 2023-11 [Leitfaden zum Umgang mit Werkzeugen künstlicher Intelligenz beim Verfassen von Arbeiten und Erstellen von Produkten](http://englisch-lehrer.net/abb/Gymnasium%20Neubiberg%20KI%20Leitfaden%2011%202023.pdf)
 
 # :wrench: Tools
 
 ## Apps
+
+### General
+
+### German
+
+### Maths
 * [Modus Operanti #teacherinpocket](https://www.modusoperandiapp.com/)
