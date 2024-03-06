@@ -1,7 +1,7 @@
 # :information_desk_person: People
 
 * [Kai Wörner](https://twitter.com/Woe_Real)
-* [Michael Lutz Lehrer/Lutz Education](https://www.linkedin.com/in/michaellutz-edtech-advisor)
+* [Michael Lutz Lehrer/Lutz Education - Schweiz](https://www.linkedin.com/in/michaellutz-edtech-advisor)
 * [Nele Hirsch EBildungsLabor](https://www.linkedin.com/in/nele-hirsch-2a79a51a0)
 * [Patrick Bronner - Tablet oder Kreidetafel](https://www.patrickbronner.de/)
 * [Diana Knodel](https://de.linkedin.com/in/dianaknodel)
@@ -19,7 +19,7 @@
 ## Single Episodes
 *
 * 2024-01-14 [Tech Weekly: Künstliche Intelligenz im Klassenzimmer](https://www.bitkom.org/mediathek/podcasts/Tech-Weekly-Kuenstliche-Intelligenz-im-Klassenzimmer)
-*
+* 2022-12-2 [Podcast »KI in der Schule – so funktioniert der Informatikunterricht der Zukunft« ](https://www.fraunhofer.de/de/mediathek/podcasts/podcasts-2022/ki-in-der-schule.html)
 
 # :book: Reading
 
