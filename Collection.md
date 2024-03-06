@@ -4,6 +4,7 @@
 * [Michael Lutz Lehrer/Lutz Education](https://www.linkedin.com/in/michaellutz-edtech-advisor)
 * [Nele Hirsch EBildungsLabor](https://www.linkedin.com/in/nele-hirsch-2a79a51a0)
 * [Patrick Bronner - Tablet oder Kreidetafel](https://www.patrickbronner.de/)
+* [Diana Knodel](https://de.linkedin.com/in/dianaknodel)
 
 ## SocialMedia
 * [SchulKI](https://twitter.com/schulKI_de)
@@ -13,6 +14,7 @@
 ## Series
 * [Kreide.KI.Klartext](https://kreide-ki-klartext.podigee.io/)
 * [eduMail Podcast](https://ebildungslabor.de/category/podcast/)
+* [bpb - Werkstatt-Gespräch – KI & Bildung](https://www.bpb.de/lernen/digitale-bildung/werkstatt/540032/werkstatt-gespraech-ki-bildung/)
 
 ## Single Episodes
 *
