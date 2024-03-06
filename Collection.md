@@ -17,7 +17,7 @@
 * [bpb - Werkstatt-Gespräch – KI & Bildung](https://www.bpb.de/lernen/digitale-bildung/werkstatt/540032/werkstatt-gespraech-ki-bildung/)
 
 ## Single Episodes
-*
+* 2024-01-24 [Olaf-Axel Burow: Mit KI zu positiver Pädagogik](https://www.swr.de/wissen/olaf-axel-burow-mit-ki-zu-positiver-paedagogik-100.html)
 * 2024-01-14 [Tech Weekly: Künstliche Intelligenz im Klassenzimmer](https://www.bitkom.org/mediathek/podcasts/Tech-Weekly-Kuenstliche-Intelligenz-im-Klassenzimmer)
 * 2022-12-2 [Podcast »KI in der Schule – so funktioniert der Informatikunterricht der Zukunft« ](https://www.fraunhofer.de/de/mediathek/podcasts/podcasts-2022/ki-in-der-schule.html)
 
