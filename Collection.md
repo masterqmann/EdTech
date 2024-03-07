@@ -41,6 +41,7 @@
 
 ## Documentation / Guidelines
 
+* 2024-3 [Unterrichtseinheit zu KI ab Klasse 6 - Wie künstliche Intelligenz unsere Welt verändert](https://ed.spiegel.de/unterrichtsmaterial/wie-kuenstliche-intelligenz-unsere-welt-veraendert-unterrichtseinheit-zu-ki-ab-klasse-6)
 * 2024-02-27 [Umgangsformen für KI-Tools mit Lehrer:innen & Schüler:innen erarbeiten_fobizz](https://hazu.swiss/lutz-education/rwtDosEZ2VObUZhVx2CK/3xX4uWliOo7ANQaVul5v)
 * 2024-01 [Online Kurs: KI mit Schüler:innen](https://hazu.swiss/lutz-education/yNCZwSxdnK8H6QOqB4Nl/BsogBsujNRoSuDN9XryX)
 * 2023-11 [Leitfaden zum Umgang mit Werkzeugen künstlicher Intelligenz beim Verfassen von Arbeiten und Erstellen von Produkten](http://englisch-lehrer.net/abb/Gymnasium%20Neubiberg%20KI%20Leitfaden%2011%202023.pdf)
