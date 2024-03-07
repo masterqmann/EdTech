@@ -25,7 +25,8 @@
 # :book: Reading
 
 ## Single Articles
-* 2024-04 [ChatGPT & Datenschutz – Update für Schule und Unterricht: März 2024](https://unterrichten.digital/2024/02/28/chatgpt-datenschutz-unterricht-schule-2024/)
+* 2024-03-06 [KI und digitale Tools für die Bewertung von Prüfungsleistungen – Anforderungen und Nutzen](https://schule21.blog/2024/03/06/ki-und-digitale-tools-zur-pruefungsbewertung)
+* 2024-03 [ChatGPT & Datenschutz – Update für Schule und Unterricht: März 2024](https://unterrichten.digital/2024/02/28/chatgpt-datenschutz-unterricht-schule-2024/)
 * 2024-02 [KI in der Schule „Fehler korrigiert jetzt die KI"](https://www.goethe.de/de/spr/spr/25396486.html)
 * 2024-02-23 [Groq: KI-Open Source-Sprachmodelle in superschneller Umgebung](https://ebildungslabor.de/links/groq-ki-open-source-sprachmodelle-in-superschneller-umgebung/)
 * 2024-02-05 [Fünf erprobte KI-Tools für deinen Lehreralltag](https://www.kms-bildung.de/2024/02/05/fuenf-erprobte-ki-tools-fuer-deinen-lehreralltag/)
