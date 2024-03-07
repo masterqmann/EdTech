@@ -38,6 +38,7 @@
 ## Newsletter
 
 * [eduMail](https://ebildungslabor.de/edumail/)
+* [KI & Bildung-LinkedIn](https://www.linkedin.com/newsletters/ki-bildung-7088522528528195584/)
 
 ## Documentation / Guidelines
 
