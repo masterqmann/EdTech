@@ -8,7 +8,7 @@
 
 ## SocialMedia
 * [SchulKI - X](https://twitter.com/schulKI_de)
-* [michael drabe - mastodon)(https://bildung.social/@m_drabe)
+* [michael drabe - mastodon](https://bildung.social/@m_drabe)
 
 # :headphones: Podcast
 
