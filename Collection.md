@@ -5,6 +5,7 @@
 * [Nele Hirsch EBildungsLabor](https://www.linkedin.com/in/nele-hirsch-2a79a51a0)
 * [Patrick Bronner - Tablet oder Kreidetafel](https://www.patrickbronner.de/)
 * [Diana Knodel](https://de.linkedin.com/in/dianaknodel)
+* [Amanda Bickerstaff](https://www.linkedin.com/in/amanda-bickerstaff-edu)
 
 ## SocialMedia
 * [SchulKI - X](https://twitter.com/schulKI_de)
