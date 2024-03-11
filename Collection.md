@@ -77,7 +77,7 @@ Künstlicher Intelligenz (KI)](https://medienportal.siemens-stiftung.org/de/unte
 * [Modus Operanti #teacherinpocket](https://www.modusoperandiapp.com/)
 
 ### Music
-* [Create Musich with Suno AI](https://app.suno.ai/)
+* [Create music with Suno AI](https://app.suno.ai/)
 
 
 
