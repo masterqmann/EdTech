@@ -13,7 +13,7 @@
 
 # Video
 
-* [Unterrichten.digital)[https://youtube.com/@unterrichten.digital-tutor125)
+* [Unterrichten.digital](https://youtube.com/@unterrichten.digital-tutor125)
 
 # :headphones: Podcast
 
