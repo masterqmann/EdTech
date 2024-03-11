@@ -11,7 +11,7 @@
 * [SchulKI - X](https://twitter.com/schulKI_de)
 * [michael drabe - mastodon](https://bildung.social/@m_drabe)
 
-# Video
+# :movie_camera: Video
 
 * [Unterrichten.digital](https://youtube.com/@unterrichten.digital-tutor125)
 
