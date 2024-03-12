@@ -57,7 +57,7 @@
 * 2024-01 [Online Kurs: KI mit Schüler:innen](https://hazu.swiss/lutz-education/yNCZwSxdnK8H6QOqB4Nl/BsogBsujNRoSuDN9XryX)
 * 2023-11 [Leitfaden zum Umgang mit Werkzeugen künstlicher Intelligenz beim Verfassen von Arbeiten und Erstellen von Produkten](http://englisch-lehrer.net/abb/Gymnasium%20Neubiberg%20KI%20Leitfaden%2011%202023.pdf)
 * 2023-07 [KI IN SCHULE UND UNTERRICHT - Hessen]([https://digitale-schule.hessen.de/sites/digitale-schule.hessen.de/files/2023-07/ki_handreichung.pdf](https://digitale-schule.hessen.de/unterricht-und-paedagogik/handreichung-kuenstliche-intelligenz-ki-in-schule-und-unterricht)
-* 
+* 2021 [KI@Bildung. Lehren und Lernen in der Schule mit Werkzeugen Künstlicher Intelligenz](https://www.wissensatlas-bildung.de/publikation/kibildung-lehren-und-lernen-in-der-schule-mit-werkzeugen-kuenstlicher-intelligenz/)
 
 # :wrench: Tools
 
