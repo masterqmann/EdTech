@@ -38,6 +38,7 @@
 * 2024-02-05 [Gut prompten statt perfekt schreiben? So verändert KI den Deutschunterricht](https://deutsches-schulportal.de/unterricht/gut-prompten-statt-perfekt-schreiben-so-veraendert-ki-den-deutschunterricht/)
 * 2023-12-02 [Praxiserprobte KI-Tools für Schule und Unterricht – ChatGPT & Co. – Werkstattbericht](https://unterrichten.digital/2023/05/22/ki-tools-unterricht-chatgpt-werkstattbericht/)
 * 2024-02-01 [KI in Heidelberger Schule: Hat ChatGPT den Schulalltag schon verändert?](https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/ki-kuenstliche-intelligenz-schule-heidelberg-gymnasium-lehrer-schueler-eltern-100.html)
+* 2023-11-23 [Warum wir freie und offene KI in der Bildung brauchen](https://blog.wikimedia.de/2023/11/23/warum-wir-freie-und-offene-ki-in-der-bildung-brauchen/)
 * 2023-11-05 [Academic Integrity in the Age of AI](https://er.educause.edu/articles/sponsored/2023/11/academic-integrity-in-the-age-of-ai)
 * 2023-11-02 [KI: Digitale Professoren, sprechende Lehrbücher - so revolutioniert KI die Bildung](https://www.handelsblatt.com/technik/ki/ki-digitale-professoren-sprechende-lehrbuecher-so-revolutioniert-ki-die-bildung/29453478.html)
 * 2023-01-13 [Wie Künstliche Intelligenz bereits jetzt den Unterricht verändert](https://www.schule-in-bayern.de/beitrag/wie-kuenstliche-intelligenz-bereits-jetzt-den-unterricht-veraendert)
