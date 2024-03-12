@@ -13,6 +13,7 @@
 
 # :movie_camera: Video
 
+* [Kompetenzverbund lernen:digital](https://youtube.com/@lernendigitalDE)
 * [Unterrichten.digital](https://youtube.com/@unterrichten.digital-tutor125)
 
 # :headphones: Podcast
