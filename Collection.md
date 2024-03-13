@@ -43,6 +43,7 @@
 * 2023-11-23 [Warum wir freie und offene KI in der Bildung brauchen](https://blog.wikimedia.de/2023/11/23/warum-wir-freie-und-offene-ki-in-der-bildung-brauchen/)
 * 2023-11-05 [Academic Integrity in the Age of AI](https://er.educause.edu/articles/sponsored/2023/11/academic-integrity-in-the-age-of-ai)
 * 2023-11-02 [KI: Digitale Professoren, sprechende Lehrbücher - so revolutioniert KI die Bildung](https://www.handelsblatt.com/technik/ki/ki-digitale-professoren-sprechende-lehrbuecher-so-revolutioniert-ki-die-bildung/29453478.html)
+* 2023-08-17 [Revolutionizing Singapore's Education: The Confluence of AI and EdTech](https://blog.studygleam.com/post/2023-08-14-revolutionizing-singapores-education-the-confluence-of-ai-and-edtech/)
 * 2023-04-11 [Aufruf - Künstliche Intelligenz (KI), Offenheit und Pädagogik](https://oeai.eu/aufruf/)
 * 2023-01-13 [Wie Künstliche Intelligenz bereits jetzt den Unterricht verändert](https://www.schule-in-bayern.de/beitrag/wie-kuenstliche-intelligenz-bereits-jetzt-den-unterricht-veraendert)
 
@@ -80,6 +81,9 @@ Künstlicher Intelligenz (KI)](https://medienportal.siemens-stiftung.org/de/unte
 * [Fobizz](https://fobizz.com/)
 * [Fiete](https://www.fiete.ai/)
   * [Die Künstliche Intelligenz fiete.ai im Deutschunterricht](https://www.kms-bildung.de/2024/02/14/die-kuenstliche-intelligenz-fiete-ai-im-deutschunterricht/)
+
+### English
+* [Automate English Essay Grading with StudyGleam](https://studygleam.com/)
 
 ### German
 
