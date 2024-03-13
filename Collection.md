@@ -37,6 +37,7 @@
 * 2024-03 [ChatGPT & Datenschutz – Update für Schule und Unterricht: März 2024](https://unterrichten.digital/2024/02/28/chatgpt-datenschutz-unterricht-schule-2024/)
 * 2024-02 [KI in der Schule „Fehler korrigiert jetzt die KI"](https://www.goethe.de/de/spr/spr/25396486.html)
 * 2024-02-23 [Groq: KI-Open Source-Sprachmodelle in superschneller Umgebung](https://ebildungslabor.de/links/groq-ki-open-source-sprachmodelle-in-superschneller-umgebung/)
+* 2024-02-07 [How generative AI is reshaping education in Asia-Pacific](https://www.unesco.org/en/articles/how-generative-ai-reshaping-education-asia-pacific)
 * 2024-02-05 [Fünf erprobte KI-Tools für deinen Lehreralltag](https://www.kms-bildung.de/2024/02/05/fuenf-erprobte-ki-tools-fuer-deinen-lehreralltag/)
 * 2024-02-05 [Gut prompten statt perfekt schreiben? So verändert KI den Deutschunterricht](https://deutsches-schulportal.de/unterricht/gut-prompten-statt-perfekt-schreiben-so-veraendert-ki-den-deutschunterricht/)
 * 2023-12-02 [Praxiserprobte KI-Tools für Schule und Unterricht – ChatGPT & Co. – Werkstattbericht](https://unterrichten.digital/2023/05/22/ki-tools-unterricht-chatgpt-werkstattbericht/)
