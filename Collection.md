@@ -13,8 +13,12 @@
 
 # :movie_camera: Video
 
+## Series
 * [Kompetenzverbund lernen:digital](https://youtube.com/@lernendigitalDE)
 * [Unterrichten.digital](https://youtube.com/@unterrichten.digital-tutor125)
+
+## Single Episodes
+* 2023-04 [Sal Khan - How AI could save (not destroy) education, TED](https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education) 
 
 # :headphones: Podcast
 
