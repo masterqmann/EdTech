@@ -65,12 +65,14 @@
 * 2024-02-27 [Umgangsformen für KI-Tools mit Lehrer:innen & Schüler:innen erarbeiten_fobizz](https://hazu.swiss/lutz-education/rwtDosEZ2VObUZhVx2CK/3xX4uWliOo7ANQaVul5v)
 * 2024-01 [Online Kurs: KI mit Schüler:innen](https://hazu.swiss/lutz-education/yNCZwSxdnK8H6QOqB4Nl/BsogBsujNRoSuDN9XryX)
 * 2023-11 [Leitfaden zum Umgang mit Werkzeugen künstlicher Intelligenz beim Verfassen von Arbeiten und Erstellen von Produkten](http://englisch-lehrer.net/abb/Gymnasium%20Neubiberg%20KI%20Leitfaden%2011%202023.pdf)
+* 2023-07-17 [Positionspapier der Gesellschaft für Informatik e.V. Künstliche Intelligenz in der Bildung](https://gi.de/fileadmin/GI/Hauptseite/Service/Publikationen/GI_Positionspapier_KI_in_der_Bildung_2023-07-12.pdf)
 * 2023-07 [KI IN SCHULE UND UNTERRICHT - Hessen]([https://digitale-schule.hessen.de/sites/digitale-schule.hessen.de/files/2023-07/ki_handreichung.pdf](https://digitale-schule.hessen.de/unterricht-und-paedagogik/handreichung-kuenstliche-intelligenz-ki-in-schule-und-unterricht)
 * 2021 [KI@Bildung. Lehren und Lernen in der Schule mit Werkzeugen Künstlicher Intelligenz](https://www.wissensatlas-bildung.de/publikation/kibildung-lehren-und-lernen-in-der-schule-mit-werkzeugen-kuenstlicher-intelligenz/)
 
 # :wrench: Tools
 
 ## :nut_and_bolt: Toolkits
+* [Learn AI in Singapore](https://learn.aisingapore.org/)
 * [Unterrichtsmaterial zu
 Künstlicher Intelligenz (KI)](https://medienportal.siemens-stiftung.org/de/unterrichtsmaterial-kuenstliche-intelligenz)
 * [Künstliche Intelligenz im Unterricht Tools, Informationen und Beispiele | CC BY-SA 4.0 Arthur Thömmes ](https://www.taskcards.de/#/board/b876a104-8031-4254-aa24-37dc1cfd292c/view)
