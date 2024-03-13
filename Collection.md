@@ -45,6 +45,7 @@
 * 2023-11-02 [KI: Digitale Professoren, sprechende Lehrbücher - so revolutioniert KI die Bildung](https://www.handelsblatt.com/technik/ki/ki-digitale-professoren-sprechende-lehrbuecher-so-revolutioniert-ki-die-bildung/29453478.html)
 * 2023-08-17 [Revolutionizing Singapore's Education: The Confluence of AI and EdTech](https://blog.studygleam.com/post/2023-08-14-revolutionizing-singapores-education-the-confluence-of-ai-and-edtech/)
 * 2023-04-11 [Aufruf - Künstliche Intelligenz (KI), Offenheit und Pädagogik](https://oeai.eu/aufruf/)
+* 2013-01-19 [3 ways Singapore is trialling AI in education](https://govinsider.asia/intl-en/article/3-ways-Singapore-is-trialling-AI-in-education)
 * 2023-01-13 [Wie Künstliche Intelligenz bereits jetzt den Unterricht verändert](https://www.schule-in-bayern.de/beitrag/wie-kuenstliche-intelligenz-bereits-jetzt-den-unterricht-veraendert)
 
 ## Newsletter
@@ -55,6 +56,7 @@
 
 ## Documentation / Guidelines
 
+* [Artificial intelligence and the Futures of Learning, UNESCO](https://www.unesco.org/en/digital-education/ai-future-learning)
 * [:ledger: Pioniere des Wandels - Wie Schüler:innen KI im Unterricht nutzen möchten, Vodafone Stiftung](https://www.vodafone-stiftung.de/wp-content/uploads/2024/03/Pioniere-des-Wandels-wie-Schueler-innen-KI-im-Unterricht-nutzen-wollen-Jugendstudie-der-VS-2024.pdf)
 * [Schule und KI - Lehren und Lernen mit Künstlicher Intelligenz, Dt. Telekom Stiftung](https://www.telekom-stiftung.de/aktivitaeten/schule-und-ki)
 * 2024-3 [Unterrichtseinheit zu KI ab Klasse 6 - Wie künstliche Intelligenz unsere Welt verändert](https://ed.spiegel.de/unterrichtsmaterial/wie-kuenstliche-intelligenz-unsere-welt-veraendert-unterrichtseinheit-zu-ki-ab-klasse-6)
