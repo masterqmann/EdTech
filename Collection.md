@@ -75,7 +75,7 @@
 
 ## books
 * [Computational Thinking Education in K–12: Artificial Intelligence Literacy and Physical Computing](https://direct.mit.edu/books/oa-edited-volume/5312/Computational-Thinking-Education-in-K-12Artificial)
-
+* [DAISY amd her AI Friends - Al for Kids](https://learn.aisingapore.org/wp-content/uploads/2022/03/AI-for-Kids_Illustrated-Edition_final_isbn.pdf)
 
 # :wrench: Tools
 
