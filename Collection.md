@@ -73,6 +73,10 @@
 * 2023-07 [KI IN SCHULE UND UNTERRICHT - Hessen](https://digitale-schule.hessen.de/unterricht-und-paedagogik/handreichung-kuenstliche-intelligenz-ki-in-schule-und-unterricht)
 * 2021 [KI@Bildung. Lehren und Lernen in der Schule mit Werkzeugen Künstlicher Intelligenz](https://www.wissensatlas-bildung.de/publikation/kibildung-lehren-und-lernen-in-der-schule-mit-werkzeugen-kuenstlicher-intelligenz/)
 
+## books
+* [Computational Thinking Education in K–12: Artificial Intelligence Literacy and Physical Computing](https://direct.mit.edu/books/oa-edited-volume/5312/Computational-Thinking-Education-in-K-12Artificial)
+
+
 # :wrench: Tools
 
 ## :nut_and_bolt: Toolkits
