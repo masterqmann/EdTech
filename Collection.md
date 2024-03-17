@@ -94,6 +94,7 @@ Künstlicher Intelligenz (KI)](https://medienportal.siemens-stiftung.org/de/unte
 * [International Society for Technology in Education](https://iste.org/ai)
 * [AI for Education](https://www.aiforeducation.io/)
 * [everyday AI](https://everyday-ai.org/)
+* [AI unplugged](http://www.aiunplugged.org/)
 
 ## :iphone: Apps
 
