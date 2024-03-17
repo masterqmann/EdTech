@@ -99,6 +99,7 @@ Künstlicher Intelligenz (KI)](https://medienportal.siemens-stiftung.org/de/unte
 * [Fobizz](https://fobizz.com/)
 * [Fiete](https://www.fiete.ai/)
   * [Die Künstliche Intelligenz fiete.ai im Deutschunterricht](https://www.kms-bildung.de/2024/02/14/die-kuenstliche-intelligenz-fiete-ai-im-deutschunterricht/)
+* [Educa LMS/AI](https://digitallearning.gmbh/)
 
 ### English
 * [Automate English Essay Grading with StudyGleam](https://studygleam.com/)
