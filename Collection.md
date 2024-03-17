@@ -29,6 +29,7 @@
 
 ## Single Episodes
 * 2024-03-14 [Kreider.KI.Klartext-Episode 10 "Mal was googeln lassen, ist kein digitaler Unterricht!"-Wie wollen Jugendliche heute wirklich mit KI lernen?](https://kreide-ki-klartext.podigee.io/20-new-episode)
+* 2024-03-03 [#2x08 - Künstliche Intelligenz mit Prof. Dr. Johanna Fleckenstein und Hendrik Haverkamp](https://auftrag-aufbruch.podigee.io/20-kunstliche-intelligenz#t=5)
 * 2024-01-24 [Olaf-Axel Burow: Mit KI zu positiver Pädagogik](https://www.swr.de/wissen/olaf-axel-burow-mit-ki-zu-positiver-paedagogik-100.html)
 * 2024-01-14 [Tech Weekly: Künstliche Intelligenz im Klassenzimmer](https://www.bitkom.org/mediathek/podcasts/Tech-Weekly-Kuenstliche-Intelligenz-im-Klassenzimmer)
 * 2022-12-2 [Podcast »KI in der Schule – so funktioniert der Informatikunterricht der Zukunft« ](https://www.fraunhofer.de/de/mediathek/podcasts/podcasts-2022/ki-in-der-schule.html)
