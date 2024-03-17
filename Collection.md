@@ -93,6 +93,7 @@ Künstlicher Intelligenz (KI)](https://medienportal.siemens-stiftung.org/de/unte
 * [Lern-/Lehrmaterial Künstliche Intelligenz - TU Dresden](https://tu-dresden.de/ing/informatik/smt/ddi/schulinformatik/eduinf-education_in_informatics/lehr-lern-material/kuenstliche-intelligenz/index)
 * [International Society for Technology in Education](https://iste.org/ai)
 * [AI for Education](https://www.aiforeducation.io/)
+* [everyday AI](https://everyday-ai.org/)
 
 ## :iphone: Apps
 
