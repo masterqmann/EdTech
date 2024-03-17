@@ -57,12 +57,13 @@
 * 2013-01-19 [3 ways Singapore is trialling AI in education](https://govinsider.asia/intl-en/article/3-ways-Singapore-is-trialling-AI-in-education)
 * 2023-01-13 [Wie Künstliche Intelligenz bereits jetzt den Unterricht verändert](https://www.schule-in-bayern.de/beitrag/wie-kuenstliche-intelligenz-bereits-jetzt-den-unterricht-veraendert)
 
-## Newsletter
+## Newsletter / Blog
 
 * [eduMail](https://ebildungslabor.de/edumail/)
 * [KI & Bildung-LinkedIn](https://www.linkedin.com/newsletters/ki-bildung-7088522528528195584/)
 * [KI in der Schule Newsticker](https://ki-in-der-schule.de/)
 * [Eduhu Blog](https://eduhu.de/blog/)
+* [veducation](https://www.vedducation.de/blog/)
 
 ## Documentation / Guidelines
 
