@@ -38,6 +38,7 @@
 # :book: Reading
 
 ## Single Articles
+* 2024-03-19 [Brauchen wir eine KI-Revolution in der Bildung?](https://ebildungslabor.de/blog/brauchen-wir-eine-ki-revolution-in-der-bildung/)
 * 2024-03 [Effective and Scalable Math Support: Evidence on the Impact of an AI- Tutor on Math Achievement in Ghana](https://arxiv.org/ftp/arxiv/papers/2402/2402.09809.pdf)
 * 2024-03-13 [Jugendstudie zum Einsatz von Künstlicher Intelligenz an Schulen: Jugendliche wünschen sich Umgang mit KI als festen Bestandteil des Unterrichts](https://www.vodafone-stiftung.de/jugendstudie-kuenstliche-intelligenz/)
 * 2024-03-06 [KI und digitale Tools für die Bewertung von Prüfungsleistungen – Anforderungen und Nutzen](https://schule21.blog/2024/03/06/ki-und-digitale-tools-zur-pruefungsbewertung)
@@ -86,6 +87,7 @@
 # :wrench: Tools
 
 ## :nut_and_bolt: Toolkits
+* [ENARIS](https://enaris.org/material/de/index.html)
 * [Learn AI in Singapore](https://learn.aisingapore.org/)
 * [Unterrichtsmaterial zu
 Künstlicher Intelligenz (KI)](https://medienportal.siemens-stiftung.org/de/unterrichtsmaterial-kuenstliche-intelligenz)
