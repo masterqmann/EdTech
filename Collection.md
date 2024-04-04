@@ -39,6 +39,7 @@
 # :book: Reading
 
 ## Single Articles
+* 2024-04-04 [Schulbehörde legt Leitlinien für Künstliche Intelligenz vor](https://www.hamburg.de/nachrichten-hamburg/18482940/schulbehoerde-legt-leitlinien-fuer-kuenstliche-intelligenz-vor/)
 * 2024-03-25 [GEW-Bildungstag zur Buchmesse: Künstliche Intelligenz als Assistenz der Schulverwaltung](https://www.gew.de/aktuelles/detailseite/ki-als-assistenz-der-schulverwaltung)
 * [Teaching AI: Empowering the Next Generation for an AI-Driven World](https://medium.com/@andrewmarcinek/teaching-ai-empowering-the-next-generation-for-an-ai-driven-world-6832ac0f1c01)
 * 2024-03-19 [Brauchen wir eine KI-Revolution in der Bildung?](https://ebildungslabor.de/blog/brauchen-wir-eine-ki-revolution-in-der-bildung/)
