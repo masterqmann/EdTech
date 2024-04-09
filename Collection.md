@@ -39,6 +39,7 @@
 # :book: Reading
 
 ## Single Articles
+* 2024-04-08 [Prüfungsaufgaben mit Künstlicher Intelligenz](https://joschafalck.de/pruefen-und-ki/)
 * 2024-04-04 [Schulbehörde legt Leitlinien für Künstliche Intelligenz vor](https://www.hamburg.de/nachrichten-hamburg/18482940/schulbehoerde-legt-leitlinien-fuer-kuenstliche-intelligenz-vor/)
 * 2024-03-25 [GEW-Bildungstag zur Buchmesse: Künstliche Intelligenz als Assistenz der Schulverwaltung](https://www.gew.de/aktuelles/detailseite/ki-als-assistenz-der-schulverwaltung)
 * [Teaching AI: Empowering the Next Generation for an AI-Driven World](https://medium.com/@andrewmarcinek/teaching-ai-empowering-the-next-generation-for-an-ai-driven-world-6832ac0f1c01)
