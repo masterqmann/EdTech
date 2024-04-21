@@ -127,5 +127,11 @@ Künstlicher Intelligenz (KI)](https://medienportal.siemens-stiftung.org/de/unte
 ### Music
 * [Create music with Suno AI](https://app.suno.ai/)
 
+### Research
+* [Consensus is a search engine that uses AI to find insights in research papers](https://consensus.app/)
+
+### Video
+* [Natural User Interface by D-ID. The interface that humanizes interactions with everything digital.](https://www.d-id.com/)
+
 
 
