@@ -59,6 +59,7 @@
 * 2023-12-02 [Praxiserprobte KI-Tools für Schule und Unterricht – ChatGPT & Co. – Werkstattbericht](https://unterrichten.digital/2023/05/22/ki-tools-unterricht-chatgpt-werkstattbericht/)
 * 2024-02-01 [KI in Heidelberger Schule: Hat ChatGPT den Schulalltag schon verändert?](https://www.swr.de/swraktuell/baden-wuerttemberg/mannheim/ki-kuenstliche-intelligenz-schule-heidelberg-gymnasium-lehrer-schueler-eltern-100.html)
 * 2023-11-23 [Warum wir freie und offene KI in der Bildung brauchen](https://blog.wikimedia.de/2023/11/23/warum-wir-freie-und-offene-ki-in-der-bildung-brauchen/)
+* 2023-11-09 [Edutopia - Effective Professional Development on AI](https://www.edutopia.org/article/ai-professional-development-helps-teachers-tech-integration)
 * 2023-11-05 [Academic Integrity in the Age of AI](https://er.educause.edu/articles/sponsored/2023/11/academic-integrity-in-the-age-of-ai)
 * 2023-11-02 [KI: Digitale Professoren, sprechende Lehrbücher - so revolutioniert KI die Bildung](https://www.handelsblatt.com/technik/ki/ki-digitale-professoren-sprechende-lehrbuecher-so-revolutioniert-ki-die-bildung/29453478.html)
 * 2023-08-17 [Revolutionizing Singapore's Education: The Confluence of AI and EdTech](https://blog.studygleam.com/post/2023-08-14-revolutionizing-singapores-education-the-confluence-of-ai-and-edtech/)
