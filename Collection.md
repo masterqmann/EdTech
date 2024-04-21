@@ -74,6 +74,7 @@
 * [KI in der Schule Newsticker](https://ki-in-der-schule.de/)
 * [Eduhu Blog](https://eduhu.de/blog/)
 * [veducation](https://www.vedducation.de/blog/)
+* [edutopia](https://www.edutopia.org/go/newsletters)
 
 ## Documentation / Guidelines
 
