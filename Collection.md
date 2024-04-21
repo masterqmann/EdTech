@@ -30,6 +30,7 @@
 
 ## Single Episodes
 * 2024-04-19 [Wirtschaftsinformatikerin Doris Weßels untersucht die transformative Rolle von KI in der Bildung. Ein Gespräch darüber, wie die Technologie das Lernen und Lehren von morgen prägen wird.](https://www.handelsblatt.com/audio/disrupt-podcast/informatikerin-doris-wessels-ueber-ki-an-schule-und-uni-mischung-aus-faszination-und-schock/29763298.html)
+* 2024-03-29 [lanz&precht AUSGABE 134 KI im Klassenzimmer](https://lanz-precht.podigee.io/137-ausgabe-134-ki-im-klassenzimmer)
 * 2024-03-21 [KI an der Uni - Spart mir Künstliche Intelligenz das Büffeln?](https://www.deutschlandfunk.de/kuenstliche-intelligenz-universitaet-uni-ki-bueffeln-lernen-dlf-0bfee462-100.html)
 * 2024-03-14 [Kreider.KI.Klartext-Episode 10 "Mal was googeln lassen, ist kein digitaler Unterricht!"-Wie wollen Jugendliche heute wirklich mit KI lernen?](https://kreide-ki-klartext.podigee.io/20-new-episode)
 * 2024-03-03 [#2x08 - Künstliche Intelligenz mit Prof. Dr. Johanna Fleckenstein und Hendrik Haverkamp](https://auftrag-aufbruch.podigee.io/20-kunstliche-intelligenz#t=5)
