@@ -17,6 +17,7 @@
 * [Kompetenzverbund lernen:digital](https://youtube.com/@lernendigitalDE)
 * [Unterrichten.digital](https://youtube.com/@unterrichten.digital-tutor125)
 * [Jan Vedder - veducation](https://youtube.com/@janvedder6962)
+* [Manuell Flick kreativ unterrichten](https://youtube.com/@manuelflick)
 
 ## Single Episodes
 * 2024-04-28 [KI tools für Bilder im Unterricht](https://youtu.be/KNWD8-IGFJo)
