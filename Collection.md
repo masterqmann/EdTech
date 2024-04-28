@@ -19,6 +19,7 @@
 * [Jan Vedder - veducation](https://youtube.com/@janvedder6962)
 
 ## Single Episodes
+* 2024-04-28 [KI tools für die Anwendung im Unterricht](https://youtu.be/KNWD8-IGFJo)
 * 2023-04 [Sal Khan - How AI could save (not destroy) education, TED](https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education) 
 
 # :headphones: Podcast
