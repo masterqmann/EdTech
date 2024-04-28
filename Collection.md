@@ -31,6 +31,7 @@
 * [bpb - Werkstatt-Gespräch – KI & Bildung](https://www.bpb.de/lernen/digitale-bildung/werkstatt/540032/werkstatt-gespraech-ki-bildung/)
 
 ## Single Episodes
+* 2024-04-24 [KI Kompetenz von Lehrkräften: was Fortbildungen bringen](https://www.deutschlandfunk.de/ki-kompetenz-von-lehrkraeften-was-fortbildungen-bringen-dlf-805c49a3-100.html)
 * 2024-04-19 [Wirtschaftsinformatikerin Doris Weßels untersucht die transformative Rolle von KI in der Bildung. Ein Gespräch darüber, wie die Technologie das Lernen und Lehren von morgen prägen wird.](https://www.handelsblatt.com/audio/disrupt-podcast/informatikerin-doris-wessels-ueber-ki-an-schule-und-uni-mischung-aus-faszination-und-schock/29763298.html)
 * 2024-03-29 [lanz&precht AUSGABE 134 KI im Klassenzimmer](https://lanz-precht.podigee.io/137-ausgabe-134-ki-im-klassenzimmer)
 * 2024-03-21 [KI an der Uni - Spart mir Künstliche Intelligenz das Büffeln?](https://www.deutschlandfunk.de/kuenstliche-intelligenz-universitaet-uni-ki-bueffeln-lernen-dlf-0bfee462-100.html)
