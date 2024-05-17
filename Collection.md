@@ -140,5 +140,7 @@ Künstlicher Intelligenz (KI)](https://medienportal.siemens-stiftung.org/de/unte
 ### Video
 * [Natural User Interface by D-ID. The interface that humanizes interactions with everything digital.](https://www.d-id.com/)
 
+### Others
+* [AI for Resume / Cover Letter writing](https://enhancv.com/)
 
 
