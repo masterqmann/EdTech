@@ -120,6 +120,7 @@ Künstlicher Intelligenz (KI)](https://medienportal.siemens-stiftung.org/de/unte
   * [Die Künstliche Intelligenz fiete.ai im Deutschunterricht](https://www.kms-bildung.de/2024/02/14/die-kuenstliche-intelligenz-fiete-ai-im-deutschunterricht/)
 * [Educa LMS/AI](https://digitallearning.gmbh/)
 * [Mizou - AI Chatbot to Tutor, Assess, and Grade Your Students in 50 Languages!](https://mizou.com/)
+* [KhanMigo AI for teachers, learners and parents](https://www.khanmigo.ai/)
 
 ### English
 * [Automate English Essay Grading with StudyGleam](https://studygleam.com/)
