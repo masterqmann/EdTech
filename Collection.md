@@ -44,6 +44,7 @@
 # :book: Reading
 
 ## Single Articles
+* 2024-05-15 [KI-BEZOGENE KOMPETENZEN VON LEHRKRÄFTEN](https://magazin.forumbd.de/lehren-und-lernen/ki-bezogene-kompetenzen-von-lehrkraeften/)
 * 2024-04-28 [Shaping the Future of Learning: The Role of AI in Education 4.0](https://www.weforum.org/publications/shaping-the-future-of-learning-the-role-of-ai-in-education-4-0/)
 * 2024-04-08 [Prüfungsaufgaben mit Künstlicher Intelligenz](https://joschafalck.de/pruefen-und-ki/)
 * 2024-04-04 [Schulbehörde legt Leitlinien für Künstliche Intelligenz vor](https://www.hamburg.de/nachrichten-hamburg/18482940/schulbehoerde-legt-leitlinien-fuer-kuenstliche-intelligenz-vor/)
