@@ -123,6 +123,7 @@ Künstlicher Intelligenz (KI)](https://medienportal.siemens-stiftung.org/de/unte
 * [Educa LMS/AI](https://digitallearning.gmbh/)
 * [Mizou - AI Chatbot to Tutor, Assess, and Grade Your Students in 50 Languages!](https://mizou.com/)
 * [KhanMigo AI for teachers, learners and parents](https://www.khanmigo.ai/)
+* [Die KI-Toolbox mit Cornelsen-Expertise](https://www.cornelsen.de/digital/ai)
 
 ### English
 * [Automate English Essay Grading with StudyGleam](https://studygleam.com/)
