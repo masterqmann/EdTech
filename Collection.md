@@ -1,16 +1,3 @@
-# :information_desk_person: People
-
-* [Kai Wörner](https://twitter.com/Woe_Real)
-* [Michael Lutz Lehrer/Lutz Education - Schweiz](https://www.linkedin.com/in/michaellutz-edtech-advisor)
-* [Nele Hirsch EBildungsLabor](https://www.linkedin.com/in/nele-hirsch-2a79a51a0)
-* [Patrick Bronner - Tablet oder Kreidetafel](https://www.patrickbronner.de/)
-* [Diana Knodel](https://de.linkedin.com/in/dianaknodel)
-* [Amanda Bickerstaff](https://www.linkedin.com/in/amanda-bickerstaff-edu)
-
-## SocialMedia
-* [SchulKI - X](https://twitter.com/schulKI_de)
-* [michael drabe - mastodon](https://bildung.social/@m_drabe)
-
 # :movie_camera: Video
 
 ## Series
@@ -40,11 +27,13 @@
 * 2024-03-03 [#2x08 - Künstliche Intelligenz mit Prof. Dr. Johanna Fleckenstein und Hendrik Haverkamp](https://auftrag-aufbruch.podigee.io/20-kunstliche-intelligenz#t=5)
 * 2024-01-24 [Olaf-Axel Burow: Mit KI zu positiver Pädagogik](https://www.swr.de/wissen/olaf-axel-burow-mit-ki-zu-positiver-paedagogik-100.html)
 * 2024-01-14 [Tech Weekly: Künstliche Intelligenz im Klassenzimmer](https://www.bitkom.org/mediathek/podcasts/Tech-Weekly-Kuenstliche-Intelligenz-im-Klassenzimmer)
+* 2023-10-26 [KI in der Schule – Müssen Lehrer jetzt alles anders machen](https://www.ardaudiothek.de/episode/ki-verstehen/ki-in-der-schule-muessen-lehrer-jetzt-alles-anders-machen/deutschlandfunk/12850423/)
 * 2022-12-2 [Podcast »KI in der Schule – so funktioniert der Informatikunterricht der Zukunft« ](https://www.fraunhofer.de/de/mediathek/podcasts/podcasts-2022/ki-in-der-schule.html)
 
 # :book: Reading
 
 ## Single Articles
+* 2024-05-31 [„KI hat schon längst den Unterricht verändert“](https://www.bpb.de/lernen/digitale-bildung/werkstatt/548871/ki-hat-schon-laengst-den-unterricht-veraendert/)
 * 2024-05-15 [KI-BEZOGENE KOMPETENZEN VON LEHRKRÄFTEN](https://magazin.forumbd.de/lehren-und-lernen/ki-bezogene-kompetenzen-von-lehrkraeften/)
 * 2024-04-28 [Shaping the Future of Learning: The Role of AI in Education 4.0](https://www.weforum.org/publications/shaping-the-future-of-learning-the-role-of-ai-in-education-4-0/)
 * 2024-04-08 [Prüfungsaufgaben mit Künstlicher Intelligenz](https://joschafalck.de/pruefen-und-ki/)
@@ -98,6 +87,19 @@
 ## books
 * [Computational Thinking Education in K–12: Artificial Intelligence Literacy and Physical Computing](https://direct.mit.edu/books/oa-edited-volume/5312/Computational-Thinking-Education-in-K-12Artificial)
 * [DAISY amd her AI Friends - Al for Kids](https://learn.aisingapore.org/wp-content/uploads/2022/03/AI-for-Kids_Illustrated-Edition_final_isbn.pdf)
+
+# :information_desk_person: People
+
+* [Kai Wörner](https://twitter.com/Woe_Real)
+* [Michael Lutz Lehrer/Lutz Education - Schweiz](https://www.linkedin.com/in/michaellutz-edtech-advisor)
+* [Nele Hirsch EBildungsLabor](https://www.linkedin.com/in/nele-hirsch-2a79a51a0)
+* [Patrick Bronner - Tablet oder Kreidetafel](https://www.patrickbronner.de/)
+* [Diana Knodel](https://de.linkedin.com/in/dianaknodel)
+* [Amanda Bickerstaff](https://www.linkedin.com/in/amanda-bickerstaff-edu)
+
+## SocialMedia
+* [SchulKI - X](https://twitter.com/schulKI_de)
+* [michael drabe - mastodon](https://bildung.social/@m_drabe)
 
 # :wrench: Tools
 
