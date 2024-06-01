@@ -1,15 +1,3 @@
-# :movie_camera: Video
-
-## Series
-* [Kompetenzverbund lernen:digital](https://youtube.com/@lernendigitalDE)
-* [Unterrichten.digital](https://youtube.com/@unterrichten.digital-tutor125)
-* [Jan Vedder - veducation](https://youtube.com/@janvedder6962)
-* [Manuel Flick kreativ unterrichten](https://youtube.com/@manuelflick)
-
-## Single Episodes
-* 2024-04-28 [KI tools für Bilder im Unterricht](https://youtu.be/KNWD8-IGFJo)
-* 2023-04 [Sal Khan - How AI could save (not destroy) education, TED](https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education) 
-
 # :headphones: Podcast
 
 ## Series
@@ -87,6 +75,19 @@
 ## books
 * [Computational Thinking Education in K–12: Artificial Intelligence Literacy and Physical Computing](https://direct.mit.edu/books/oa-edited-volume/5312/Computational-Thinking-Education-in-K-12Artificial)
 * [DAISY amd her AI Friends - Al for Kids](https://learn.aisingapore.org/wp-content/uploads/2022/03/AI-for-Kids_Illustrated-Edition_final_isbn.pdf)
+
+# :movie_camera: Video
+
+## Series
+* [Kompetenzverbund lernen:digital](https://youtube.com/@lernendigitalDE)
+* [Unterrichten.digital](https://youtube.com/@unterrichten.digital-tutor125)
+* [Jan Vedder - veducation](https://youtube.com/@janvedder6962)
+* [Manuel Flick kreativ unterrichten](https://youtube.com/@manuelflick)
+
+## Single Episodes
+* 2024-04-28 [KI tools für Bilder im Unterricht](https://youtu.be/KNWD8-IGFJo)
+* 2023-04 [Sal Khan - How AI could save (not destroy) education, TED](https://www.ted.com/talks/sal_khan_how_ai_could_save_not_destroy_education) 
+
 
 # :information_desk_person: People
 
