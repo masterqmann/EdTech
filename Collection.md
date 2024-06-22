@@ -53,6 +53,7 @@
 
 ## Newsletter / Blog
 
+* [DER VK:KIWA:BLOG](https://www.vkkiwa.de/blog/)
 * [eduMail](https://ebildungslabor.de/edumail/)
 * [KI & Bildung-LinkedIn](https://www.linkedin.com/newsletters/ki-bildung-7088522528528195584/)
 * [KI in der Schule Newsticker](https://ki-in-der-schule.de/)
